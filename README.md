@@ -1,8 +1,7 @@
 # 👋 Olá, me chamo Rafael
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Iniciando minha jornada na programação 
-🚀 Buscando meu primeiro estágio na área de tecnologia  
+💻 Iniciando na área de programação e em busca do primeiro estágio
 
 ---
 
