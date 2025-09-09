@@ -6,7 +6,7 @@
 ---
 
 ## 🔧 Tecnologias que estou aprendendo
-- Java ☕
+- Java, Javascript
 - Lógica de programação
 - Git e GitHub
 - VS Code / Eclipse
@@ -27,10 +27,9 @@ Permite registrar alunos, calcular médias e verificar aprovação/reprovação.
 ---
 
 ## 📫 Contato
-- LinkedIn: 
 - GitHub: https://github.com/yrxfxel
 - E-mail: yrxfxel@gmail.com
-
+  
 ---
 
-✨ Sempre disposto a aprender e colaborar em novos projetos.
+- Sempre disposto a aprender e colaborar em novos projetos.
