@@ -7,7 +7,6 @@
 
 ## 🔧 Tecnologias que estou aprendendo
 - Java, Javascript
-- Lógica de programação
 - Git e GitHub
 - VS Code / Eclipse
 
